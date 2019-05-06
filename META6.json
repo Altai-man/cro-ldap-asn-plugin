@@ -1,0 +1,18 @@
+{
+  "name": "Cro::LDAP::ASN::Plugin",
+  "description": "An ASN::META plugin that temporarily takes care of \"unusual\" LDAP types",
+  "version": "0.1",
+  "perl": "6.*",
+  "auth": "github:Altai-man",
+  "depends": [
+    "ASN::BER"
+  ],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Cro::LDAP::ASN::Plugin": "lib/Cro/LDAP/ASN/Plugin.pm6"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "source-url": "Write me!"
+}
